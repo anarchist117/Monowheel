@@ -2,7 +2,7 @@
 | --- | --- | --- | --- | --- |
 |  1  | 0% - 100% | Mode | Ride mode setting | Riding Mode Settable |
 |  2  | 0% - 100% | btn vL | Button volume adjustment | Button Volume Settable |
-|  3  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+|  3  | ON / OFF | L ModE | Low battery mode | Low battery mode |
 |  4  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 |  5  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 |  6  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
