@@ -4,7 +4,7 @@
 | 0% - 100% | btn vL | Button volume adjustment |  |
 | ON / OFF | L ModE | Low battery mode |  |
 | ON / OFF | HiGH S | High speed mode | Maximum free-spin speed of 125 / 105 km/h |
-| 35-70° | AnG Pt | Lateral cut off angle adjustment | Angle Protection>br<The larger the value, the greater tilt angle will be |
+| 35-70° | AnG Pt | Lateral cut off angle adjustment | Angle Protection<br>The larger the value, the greater tilt angle will be |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
