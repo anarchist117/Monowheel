@@ -8,7 +8,7 @@
 | 10 | 0 - 100 % | Brightness % |  | Screen Brightness Settings |
 | 11 | LEvEL 0 | Calibration |  | Vehicle Balance Calibration |
 | 12 | 0 | Sleep mode |  | Sleep Mode Setting |
-| 13 | mph / kph | mph / kph |  | Miles / Kilometers Unit Switching |
+| 13 | kph / mph | mph / kph |  | Kilometers / Miles Unit Switching |
 | 14 |  | Content Cell  | Content Cell  | Content Cell  |
 | 15 |  | Content Cell  | Content Cell  | Content Cell  |
 | 16 |  | Content Cell  | Content Cell  | Content Cell  |
