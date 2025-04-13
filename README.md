@@ -16,4 +16,4 @@
 | 14 | 0 - 100 | btn vL | Button volume adjustment | Button Volume Settings |
 | 15 | 145 - 152V | CHG | Max charging voltage setting | Charging Voltage Settings |
 | 16 | 0 - 100% | tHo rA | — | Acceleration Assist Settings |
-| 17 | 0 - 100% | CrA Lv | — | Compensation against that slow tilt |
+| 17 | 0 - 100% | CrA Lv | — | Compensation against that slow tilt when accelerating or braking |
