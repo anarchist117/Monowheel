@@ -6,7 +6,7 @@
 |  8 | 30 - 200 % | OS tilt back % |  | Power tilt-back settings |
 |  9 | 10 - 200 kph | OS alarm |  | Over-speed Alarm Settings |
 | 10 | 0 - 100 % | Brightness |  | Screen Brightness Settings |
-| 11 |  | Content Cell  | Content Cell  | Content Cell  |
+| 11 | LEvEL | Calibration |  | Vehicle Balance Calibration |
 | 12 |  | Content Cell  | Content Cell  | Content Cell  |
 | 13 |  | Content Cell  | Content Cell  | Content Cell  |
 | 14 |  | Content Cell  | Content Cell  | Content Cell  |
