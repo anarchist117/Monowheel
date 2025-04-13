@@ -13,4 +13,4 @@
 | 15 | ON / OFF | L modE |  | Low Battery Mode Setting |
 | 16 | ON / OFF | HiGH S |  | High Speed Mode |
 | 17 | 35 - 75° | AnG Pt |  | Angle Protection Settings |
-| 18 |  |  |  |  |
+| 18 | 0 - 100 | btn vL |  | Button Volume Settings |
