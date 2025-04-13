@@ -9,7 +9,7 @@
 |  7 | LEvEL 0 | Calibration | Calibration | Vehicle Balance Calibration |
 |  8 | 0 | Sleep mode | Transportation Mode | Sleep Mode Setting |
 |  9 | kph | mph / kph | Unit Switch | Kilometers / Miles Unit Switching |
-| 10 | V | VA |  | Voltage Adjustment |
+| 10 | +/- 1.5% | VA | Voltage correction | Voltage Adjustment |
 | 11 | ON / OFF | L modE | Low battery mode | Low Battery Mode Setting |
 | 12 | ON / OFF | HiGH S | High speed mode | High Speed Mode |
 | 13 | 35 - 75° | AnG Pt | Lateral cut off angle adjustment | Angle Protection Settings |
