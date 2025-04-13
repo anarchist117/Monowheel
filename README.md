@@ -14,6 +14,6 @@
 | 12 | ON / OFF | HiGH S |  | High Speed Mode |
 | 13 | 35 - 75° | AnG Pt |  | Angle Protection Settings |
 | 14 | 0 - 100 | btn vL |  | Button Volume Settings |
-| 15 |  | CHG V |  | Charging Voltage Settings |
+| 15 |  | CHG |  | Charging Voltage Settings |
 | 16 | 0 - 100% | tHo rA % |  | Acceleration Assist Settings |
 | 17 |  | CrA Lv % |  |  |
