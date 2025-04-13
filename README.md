@@ -5,7 +5,7 @@
 |  3 | 10 - 200 kph | OS tilt back kph | Tiltback speed setting | Speed tilt-back settings |
 |  4 | 30 - 200% | OS tilt back % | PWM value setting | Power tilt-back settings |
 |  5 | 10 - 200 kph | OS alarm kph | Alarm speed setting | Over-speed Alarm Settings |
-|  6 | 0 - 100% | Brightness |  | Screen Brightness Settings |
+|  6 | 0 - 100% | Brightness | Backlight adjustment | Screen Brightness Settings |
 |  7 | LEvEL 0 | Calibration |  | Vehicle Balance Calibration |
 |  8 | 0 | Sleep mode |  | Sleep Mode Setting |
 |  9 | kph | mph / kph |  | Kilometers / Miles Unit Switching |
