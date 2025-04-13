@@ -3,8 +3,8 @@
 |  1  | 0% - 100% | Mode | Ride mode setting | Riding Mode Settable |  |
 |  2  | 0% - 100% | btn vL | Button volume adjustment | Button Volume Settable |  |
 |  3  | ON / OFF | L ModE | Low battery mode | Low battery mode |  |
-|  4  | ON / OFF | Content Cell  | Content Cell  | High Speed Mode | Maximum free-spin speed of 125 / 105 km/h |
-|  5  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |  |
+|  4  | ON / OFF | HiGH S | High speed mode | High Speed Mode | Maximum free-spin speed of 125 / 105 km/h |
+|  5  | 35-70° | AnG Pt | Lateral cut off angle adjustment | Angle Protection | The larger the value, the greater tilt angle will be |
 |  6  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |  |
 |  7  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |  |
 |  8  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |  |
