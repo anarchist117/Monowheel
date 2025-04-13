@@ -7,7 +7,7 @@
 |  5 | 10 - 200 kph | OS alarm kph | Alarm speed setting | Over-speed Alarm Settings |
 |  6 | 0 - 100% | Brightness | Backlight adjustment | Screen Brightness Settings |
 |  7 | LEvEL 0 | Calibration | Calibration | Vehicle Balance Calibration |
-|  8 | 0 | Sleep mode |  | Sleep Mode Setting |
+|  8 | 0 | Sleep mode | Transportation Mode | Sleep Mode Setting |
 |  9 | kph | mph / kph |  | Kilometers / Miles Unit Switching |
 | 10 | V | VA |  | Voltage Adjustment |
 | 11 | ON / OFF | L modE |  | Low Battery Mode Setting |
