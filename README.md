@@ -8,12 +8,12 @@
 |  6 | 0 - 100% | Brightness | Backlight adjustment | Screen Brightness Settings |
 |  7 | LEvEL 0 | Calibration | Calibration | Vehicle Balance Calibration |
 |  8 | 0 | Sleep mode | Transportation Mode | Sleep Mode Setting |
-|  9 | kph | mph / kph |  | Kilometers / Miles Unit Switching |
+|  9 | kph | mph / kph | Unit Switch | Kilometers / Miles Unit Switching |
 | 10 | V | VA |  | Voltage Adjustment |
 | 11 | ON / OFF | L modE | Low battery mode | Low Battery Mode Setting |
 | 12 | ON / OFF | HiGH S | High speed mode | High Speed Mode |
 | 13 | 35 - 75° | AnG Pt | Lateral cut off angle adjustment | Angle Protection Settings |
-| 14 | 0 - 100 | btn vL |  | Button Volume Settings |
-| 15 | V | CHG |  | Charging Voltage Settings |
+| 14 | 0 - 100 | btn vL | Button volume adjustment | Button Volume Settings |
+| 15 | V | CHG | Max charging voltage setting | Charging Voltage Settings |
 | 16 | 0 - 100% | tHo rA |  | Acceleration Assist Settings |
 | 17 | % | CrA Lv |  |  |
