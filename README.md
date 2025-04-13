@@ -9,8 +9,8 @@
 | 11 | LEvEL 0 | Calibration |  | Vehicle Balance Calibration |
 | 12 | 0 | Sleep mode |  | Sleep Mode Setting |
 | 13 | kph / mph | mph / kph |  | Kilometers / Miles Unit Switching |
-| 14 |  | Content Cell  | Content Cell  | Content Cell  |
-| 15 |  | Content Cell  | Content Cell  | Content Cell  |
-| 16 |  | Content Cell  | Content Cell  | Content Cell  |
-| 17 |  | Content Cell  | Content Cell  | Content Cell  |
-| 18 |  | Content Cell  | Content Cell  | Content Cell  |
+| 14 |  |  |  | Voltage Adjustment |
+| 15 | ON / OFF | L modE |  | Low Battery Mode Setting |
+| 16 | ON / OFF | HiGH S |  | High Speed Mode |
+| 17 | 35 - 75° | AnG Pt |  | Angle Protection Settings |
+| 18 |  |  |  |  |
