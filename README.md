@@ -16,4 +16,4 @@
 | 14 | 0 - 100 | btn vL |  | Button Volume Settings |
 | 15 | V | CHG |  | Charging Voltage Settings |
 | 16 | 0 - 100% | tHo rA |  | Acceleration Assist Settings |
-| 17 |  | CrA Lv |  |  |
+| 17 | % | CrA Lv |  |  |
