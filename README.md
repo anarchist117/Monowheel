@@ -1,6 +1,6 @@
 |     | Value | Display | App | Manual | Description |
 | --- | --- | --- | --- | --- | --- |
-|  1  | 0%&nbsp;-&nbsp;32%&nbsp;as&nbsp;Soft<br>34%&nbsp;-&nbsp;66%&nbsp;as&nbsp;Medium<br>68%&nbsp;-&nbsp;100%&nbsp;as&nbsp;Strong | Mode | Ride mode setting | Pedals Settings | The smaller the value, the softer it will be |
+|  1  | 0-32%&nbsp;as&nbsp;Soft<br>34-66%&nbsp;as&nbsp;Medium<br>68-100%&nbsp;as&nbsp;Strong | Mode | Ride mode setting | Pedals Settings | The smaller the value, the softer it will be |
 |  2  | 0% - 100% | btn vL | Button volume adjustment | Button Volume Settable |  |
 |  3  | ON / OFF | L ModE | Low battery mode | Low battery mode |  |
 |  4  | ON / OFF | HiGH S | High speed mode | High Speed Mode | Maximum free-spin speed of 125 / 105 km/h |
