@@ -13,7 +13,7 @@
 | 11 | ON / OFF | L modE | Low battery mode | Low Battery Mode |
 | 12 | ON / OFF | HiGH S | High speed mode | High Speed Mode |
 | 13 | 35 - 75° | AnG Pt | Lateral cut off angle adjustment | Angle Protection |
-| 14 | 0 - 100 | btn vL | Button volume adjustment | Button Volume |
+| 14 | 0 - 100% | btn vL | Button volume adjustment | Button Volume |
 | 15 | 145 - 152V | CHG | Max charging voltage setting | Charging Voltage |
 | 16 | 0 - 100% | tHo rA | — | Acceleration Assist |
 | 17 | 0 - 100% | CrA Lv | — | Accelerating or Braking compensation |
