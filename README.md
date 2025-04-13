@@ -11,7 +11,7 @@
 |  9 | kph | mph / kph |  | Kilometers / Miles Unit Switching |
 | 10 | V | VA |  | Voltage Adjustment |
 | 11 | ON / OFF | L modE | Low battery mode | Low Battery Mode Setting |
-| 12 | ON / OFF | HiGH S |  | High Speed Mode |
+| 12 | ON / OFF | HiGH S | High speed mode | High Speed Mode |
 | 13 | 35 - 75° | AnG Pt |  | Angle Protection Settings |
 | 14 | 0 - 100 | btn vL |  | Button Volume Settings |
 | 15 | V | CHG |  | Charging Voltage Settings |
