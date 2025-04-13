@@ -1,6 +1,6 @@
 |  | Value | Display | App | Description |
 | --- | --- | --- | --- | --- |
-|  1 | 0 - 100% | Mode % | Ride mode setting | Pedal softness settings |
+|  1 | 0 - 100% | Mode | Ride mode setting | Pedal softness settings |
 |  2 | +/- 8° | PAA |  | Pedal angle adjustment |
 |  3 | 10 - 200 kph | OS tilt back kph |  | Speed tilt-back settings |
 |  4 | 30 - 200% | OS tilt back % |  | Power tilt-back settings |
