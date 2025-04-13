@@ -5,7 +5,7 @@
 |  3 | 10 - 200 kph | OS tilt back kph |  | Speed tilt-back settings |
 |  8 | 30 - 200 % | OS tilt back % |  | Power tilt-back settings |
 |  9 | 10 - 200 kph | OS alarm |  | Over-speed Alarm Settings |
-| 10 |  | Content Cell  | Content Cell  | Content Cell  |
+| 10 | 0 - 100 % | Brightness |  | Screen Brightness Settings |
 | 11 |  | Content Cell  | Content Cell  | Content Cell  |
 | 12 |  | Content Cell  | Content Cell  | Content Cell  |
 | 13 |  | Content Cell  | Content Cell  | Content Cell  |
