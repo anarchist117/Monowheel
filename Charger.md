@@ -1,6 +1,6 @@
 # Huawei R4830 and R4875
 
-# Alternative
+# Application:
 ## Roger Charger
 ### 1. Install TestFlight
 ### 2. Install Roger Charger
