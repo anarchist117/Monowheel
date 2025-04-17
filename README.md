@@ -19,6 +19,7 @@
 | 17 | 0 - 100% | CrA Lv | — | Accelerating Compensation |
 
 |  | Display | Description |
+| --- | --- | --- |
 | 1 | br tEm | Battery packs high temperature waming |
 | 2 | bt LoY | Battery packs high temperature waffling |
 | 3 | u HiGH | Battery packs overcharged warning |
