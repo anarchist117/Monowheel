@@ -20,10 +20,12 @@
 
 |  | Display | Description |
 | --- | --- | --- |
-| 1 | br tEm | Battery packs high temperature waming |
-| 2 | bt LoY | Battery packs high temperature waffling |
-| 3 | u HiGH | Battery packs overcharged warning |
-| 4 | E CHAr | Battery packs high voltage warning |
-| 5 | E CHAr | Charging current over default value range waming |
-| 6 | E HALL | Hall erro warning |
-| 7 | t HiGH | Vehicle overheat warning |
+| 1 | br tEm | Right battery high temperature alarm |
+| 2 | bL tEm | Left battery high temperature alarm |
+| 3 | bt LoY | Battery pack over-discharge alarm |
+| 4 | u HiGH | Battary pack over-voltage alarm |
+| 5 | E CHAr | Charging current exceeds set value alarm |
+| 6 | E HALL | Motor Hall error alarm |
+| 7 | t HiGH | Controller hiht temperature alarm |
+| 8 | Er obt | Generator power failure protection |
+| 9 | FuLL >_< | Over 3s downhill on full charge |
