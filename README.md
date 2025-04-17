@@ -17,3 +17,12 @@
 | 15 | 145 - 152V | CHG | Max charging voltage setting | Charging Voltage |
 | 16 | 0 - 100% | tHo rA | — | Acceleration Assist |
 | 17 | 0 - 100% | CrA Lv | — | Accelerating Compensation |
+
+|  | Display | Description |
+| 1 | br tEm | Battery packs high temperature waming |
+| 2 | bt LoY | Battery packs high temperature waffling |
+| 3 | u HiGH | Battery packs overcharged warning |
+| 4 | E CHAr | Battery packs high voltage warning |
+| 5 | E CHAr | Charging current over default value range waming |
+| 6 | E HALL | Hall erro warning |
+| 7 | t HiGH | Vehicle overheat warning |
