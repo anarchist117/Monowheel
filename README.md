@@ -1,3 +1,4 @@
+№ Settings
 |  | Value | Display | App | Description |
 | --- | --- | --- | --- | --- |
 |  1 | 0 - 100% | Mode | Ride mode setting | Pedal softness |
@@ -18,6 +19,8 @@
 | 16 | 0 - 100% | tHo rA | — | Acceleration Assist |
 | 17 | 0 - 100% | CrA Lv | — | Accelerating Compensation |
 
+
+# Error
 |  | Display | Description |
 | --- | --- | --- |
 | 1 | br tEm | Right battery high temperature alarm |
