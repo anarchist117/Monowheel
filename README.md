@@ -1,4 +1,4 @@
-№ Settings
+# Settings
 |  | Value | Display | App | Description |
 | --- | --- | --- | --- | --- |
 |  1 | 0 - 100% | Mode | Ride mode setting | Pedal softness |
