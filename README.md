@@ -1,8 +1,8 @@
 |  | Lynx | Sherman L | Oryx  |
 | --- | --- | --- | --- |
 | Voltage | 151.2V | 151.2V | 176.4V |
-| Free-spin | 125 km/h | 125 km/h | 150 km/h |
-| Battery | 2700Wh (36s4p) | 4000Wh (36s6p) | 4700Wh (42S6P) |
+| Speed | 90km/h (125km/h) | 90km/h (125km/h) | (150km/h) |
+| Battery | 2700Wh (36S4P) | 4000Wh (36S6P) | 4700Wh (42S6P) |
 | Motor | 3200W (8000W) | 3200W (8000W) | 4200W (10500W) |
 | Controller | 36x 200V/140A (840A) | 36x 200V/140A (840A) | 48x (1120A) |
 | Tire | 20" | 20" | 22" |
