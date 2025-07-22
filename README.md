@@ -6,4 +6,4 @@
 | Motor | 3200W (8000W) | 3200W (8000W) | 4200W (10500W) |
 | Controller | 36x 200V/140A (840A) | 36x 200V/140A (840A) | 48x (1120A) |
 | Tire | 20" | 20" | 22" |
-| Weight | 40 kg | 46.5 kg | 57.5 kg |
+| Weight | 40kg | 46.5kg | 57.5kg |
