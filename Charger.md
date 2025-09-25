@@ -1,5 +1,4 @@
-# Huawei R4830 and R4875
-|  | R4830 | R4875 |
+| Huawei | R4830 | R4875 |
 | --- | --- | ---|
 | Voltage |  |  |
 | Ampere |  |  |
