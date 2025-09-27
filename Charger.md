@@ -2,8 +2,8 @@
 | --- | --- | ---|
 | Voltage |  |  |
 | Ampere |  |  |
-| Max Voltage |  | 178V |
-| Max Power |  | 4.2kW |
+| Max Voltage | 170V | 178V |
+| Max Power | 1.8kW | 4.2kW |
 
 # Application:
 ## Roger Charger
